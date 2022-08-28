@@ -1,2 +1,3 @@
 # SNA-TWITTER
-Social Network Analysis for Twitter Data
+Experimental program for Social Network Analysis for Twitter Data. 
+Half a failed one at that!
